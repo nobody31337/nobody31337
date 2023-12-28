@@ -121,7 +121,7 @@
         Currently studying Deep Learning
     </li>
     <li>
-        Teaching myself the idea of Clean Architecture
+        Teaching myself some idea of Clean Architecture
     </li>
     <li>
         Contemplating job switch
